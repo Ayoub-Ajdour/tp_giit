@@ -1,3 +1,5 @@
 export class hi{
-    hhh1:string;
+    hhh1:number;
+    v1:Float32Array;
+
 }
