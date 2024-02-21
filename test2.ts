@@ -1,3 +1,4 @@
 export class hi2{
-    hhh2:string;
+    hhh2:number;
+    v11:string;
 }
