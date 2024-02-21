@@ -1,3 +1,3 @@
 export class hi{
-    hhh1:string;
+    hhh2:string;
 }
