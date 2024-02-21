@@ -1,3 +1,3 @@
-export class hi{
+export class hi2{
     hhh2:string;
 }
