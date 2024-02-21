@@ -1,4 +1,4 @@
 export class hi2{
     hhh2:number;
-    v11:string;
+    v11:number;
 }
